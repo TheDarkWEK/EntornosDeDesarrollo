@@ -16,7 +16,7 @@ public class Palabras {
      */
     public static String[] devuelveSoluciones() {
         String soluciones[] = {
-            "Amparo", "Basilio", "Copo", "Dedo","Elfo","Frutal","Grafito"};
+            "Amparo", "Basilisco", "Capon", "Dedo","Elfo","Frutal","Grafito"};
         return soluciones;
     }
 
